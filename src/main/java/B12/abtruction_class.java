@@ -71,6 +71,7 @@ public class abtruction_class {
         Square square = new Square (10);
         square.show();
         System.out.println(square.area());
+        System.out.println("ssfsf");
         
         
         // TODO code application logic here
