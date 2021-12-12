@@ -1,0 +1,5 @@
+Student{id=1002, name=nguyen van E, klass=BTEC D01 K12, address=Bac Giang}
+Student{id=1005, name=nguyen van B, klass=BTEC D01 K12, address=Ha Noi}
+Student{id=1004, name=nguyen van C, klass=BTEC D01 K12, address=Hai Phong}
+Student{id=1003, name=nguyen van A, klass=BTEC D01 K12, address=Nam Dinh}
+Student{id=1001, name=nguyen van D, klass=BTEC D01 K12, address=Quang Ninh}
